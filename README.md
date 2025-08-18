@@ -14,14 +14,14 @@ An open-source, data-oriented game engine designed for high-performance 3D graph
 ### 🔧 [GPULang](https://github.com/gscept/GPULang)
 A modern GPU programming language that simplifies shader development and GPU computing. Designed to bridge the gap between high-level programming concepts and low-level GPU architecture.
 
-**Technologies:** Compiler Design, GPU Computing
+**Technologies:** Compiler Design, SPIRV
 
-## 🛠️ Tech Stack
+## 🛠️ Tech
 
 - **Languages:** C++, C, Python, JavaScript
 - **Graphics APIs:** Vulkan, OpenGL, DirectX
 - **Specialties:** Game Engine Development, GPU Programming, Compiler Design
-- **Tools:** Git, CMake, Visual Studio, Blender
+- **Tools:** Git, CMake, Visual Studio, JetBrains Rider, VSCode, Xcode
 
 ## 📈 GitHub Stats
 
@@ -38,5 +38,3 @@ Check out my [portfolio website](https://duttenheim.github.io/Duttenheim/) for m
 - 🌍 [Portfolio](https://duttenheim.github.io/Duttenheim/)
 
 ---
-
-*Building the future of graphics and computing, one line of code at a time.*

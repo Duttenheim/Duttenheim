@@ -7,12 +7,12 @@ Welcome to my GitHub profile! I'm passionate about creating high-performance sys
 ## 🚀 Featured Projects
 
 ### 🌌 [Nebula](https://github.com/gscept/nebula) 
-An open-source, data-oriented game engine designed for high-performance 3D graphics and modern rendering techniques. Built with scalability and efficiency in mind, Nebula provides developers with cutting-edge tools for creating immersive gaming experiences.
+An open-source, data-oriented game engine designed for high-performance 3D graphics and modern rendering techniques. Built with scalability and efficiency in mind, Nebula is an attempt to make things the right way, as opposed to the common or most comfortable way.
 
 **Technologies:** C++, Vulkan, SIMD, Graphics Programming
 
 ### 🔧 [GPULang](https://github.com/gscept/GPULang)
-A modern GPU programming language that simplifies shader development and GPU computing. Designed to bridge the gap between high-level programming concepts and low-level GPU architecture.
+A modern GPU programming language that simplifies shader development and GPU computing. Designed to bring modern language semantics to the GPU, whilst providing a simpler syntax over GLSL and HLSL. It provides a very simple runtime API for loading and reflecting shaders. Also includes a language server for exceptional GPU programming tooling.
 
 **Technologies:** Compiler Design, SPIRV
 
@@ -20,7 +20,7 @@ A modern GPU programming language that simplifies shader development and GPU com
 
 - **Languages:** C++, C, Python, JavaScript
 - **Graphics APIs:** Vulkan, OpenGL, DirectX
-- **Specialties:** Game Engine Development, GPU Programming, Compiler Design
+- **Specialties:** Game Engine Development, Rendering Architecture, GPU Programming, Compiler Design, GPU/CPU Debugging, Profiling
 - **Tools:** Git, CMake, Visual Studio, JetBrains Rider, VSCode, Xcode
 
 ## 📈 GitHub Stats
@@ -34,7 +34,7 @@ Check out my [portfolio website](https://duttenheim.github.io/Duttenheim/) for m
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://linkedin.com/in/gustav-sterbrant)
-- 📧 [Email](mailto:gustav@example.com)
+- 📧 [Email](mailto:gustav.sterbrant@gmail.com)
 - 🌍 [Portfolio](https://duttenheim.github.io/Duttenheim/)
 
 ---

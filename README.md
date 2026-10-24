@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about creating high-performance sys
 ### 🌌 [Nebula](https://github.com/gscept/nebula) 
 An open-source, data-oriented game engine designed for high-performance 3D graphics and modern rendering techniques. Built with scalability and efficiency in mind, Nebula is an attempt to make things the right way, as opposed to the common or most comfortable way.
 
-**Technologies:** C++, Vulkan, SIMD, Graphics Programming
+**Technologies:** C++, Vulkan, SIMD, Graphics Programming, Data Oriented Design
 
 ### 🔧 [GPULang](https://github.com/gscept/GPULang)
 A modern GPU programming language that simplifies shader development and GPU computing. Designed to bring modern language semantics to the GPU, whilst providing a simpler syntax over GLSL and HLSL. It provides a very simple runtime API for loading and reflecting shaders. Also includes a language server for exceptional GPU programming tooling.
